@@ -1,13 +1,14 @@
 ### Hi there 👋
 
+### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomshin)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github.com/gjbae1212/hit-counter
 
 <!--
 **gomshin/gomshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-test123
 
 
 - 🔭 I’m currently working on ...
