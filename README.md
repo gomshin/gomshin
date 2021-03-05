@@ -6,7 +6,9 @@
 ---
 
 ### :books: Tech Stack
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3766AB?style=flat&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=Angular&logoColor=white"/><p/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=D3.js&logoColor=black"/> <img src="https://img.shields.io/badge/Highcharts.js-A3EC89?style=flat"/> <img src="https://img.shields.io/badge/Spotfire-1287D9?style=flat"/><p/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=black"/>
 
 <!--
 **gomshin/gomshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
